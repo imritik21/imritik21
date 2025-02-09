@@ -9,7 +9,7 @@ I'm a passionate developer with a love for learning and problem-solving. I enjoy
 ---
 
 ## 🔥 About Me:
-- 🚀 Loves to learn new stuff
+- 🚀 A competitive Programmer who loves learning new stuffs
 - 🧠 Constantly exploring new technologies
 - 🛠 Passionate about debugging and optimizing code
 
