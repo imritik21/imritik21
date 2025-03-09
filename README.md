@@ -53,6 +53,14 @@ I'm a passionate developer with a love for learning and problem-solving. I enjoy
 ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat-square&logo=nodemon)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router)
 
+### Cloud & Data Engineering:
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square&logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/Databricks-F9A01B?style=flat-square&logo=databricks)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square&logo=microsoftazure)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark)
+
+
 ---
 
 ## 📊 GitHub Stats & Most Used Languages:
